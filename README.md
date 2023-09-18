@@ -5,13 +5,16 @@ I decided to recreate the basic logic gates in Tinkercad using simple electronic
 
 ## Logic Gates
 ### OR
-![image](https://github.com/KaikyM/Logic_Ports_Demonstration/assets/127446435/f1e8892f-ebfb-42c0-8634-5b45f6609bec)
+<img src = "https://github.com/KaikyM/Logic_Ports_Demonstration/assets/127446435/f1e8892f-ebfb-42c0-8634-5b45f6609bec"
+height = "300" width = "430">
 
 ### XOR
-![image](https://github.com/KaikyM/Logic_Ports_Demonstration/assets/127446435/9f0c6315-e0a8-43a1-9c15-ef39d77e4ec8)
+<img src = "https://github.com/KaikyM/Logic_Ports_Demonstration/assets/127446435/9f0c6315-e0a8-43a1-9c15-ef39d77e4ec8"
+height = "300" width = "430">
 
 ### AND
-![image](https://github.com/KaikyM/Logic_Ports_Demonstration/assets/127446435/7f1ae376-d360-4e96-9a25-c4f282eee27d)
+<img src = "https://github.com/KaikyM/Logic_Ports_Demonstration/assets/127446435/7f1ae376-d360-4e96-9a25-c4f282eee27d"
+height = "300" width = "430">
 
 <!-- ### Components !-->
 
