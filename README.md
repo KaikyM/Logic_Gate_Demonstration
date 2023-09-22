@@ -10,7 +10,18 @@ Additionally, in this case, the Blue LED represents the negated binary 1 signal,
 
 <img src = "https://github.com/KaikyM/Logic_Gate_Demonstration/assets/127446435/5cbed003-1411-442b-a8d7-44117f84ecb6"
 height = "300" width = "430">
-
+<!-- <div align="rigth">
+        <table border=1>
+            <tr>
+                <th colspan="2">Truth Table</th>
+            </tr>
+            <tr>
+                <td align="center"></td>
+                <td align="center"></td>
+            </tr>
+        </table>
+    </div> 
+-->
 ### OR
 <img src = "https://github.com/KaikyM/Logic_Ports_Demonstration/assets/127446435/f1e8892f-ebfb-42c0-8634-5b45f6609bec"
 height = "300" width = "430">
