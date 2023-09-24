@@ -33,11 +33,11 @@ height = "300" width = "430">
 height = "300" width = "430">
 
 ### XOR
-<img src = "https://github.com/KaikyM/Logic_Ports_Demonstration/assets/127446435/9f0c6315-e0a8-43a1-9c15-ef39d77e4ec8"
+<img src = "https://github.com/KaikyM/Logic_Gate_Demonstration/assets/127446435/7dc6e9dc-eb70-4a97-904e-37ec0dc517b6"
 height = "300" width = "430">
 
 ### AND
-<img src = "https://github.com/KaikyM/Logic_Ports_Demonstration/assets/127446435/7f1ae376-d360-4e96-9a25-c4f282eee27d"
+<img src = "https://github.com/KaikyM/Logic_Gate_Demonstration/assets/127446435/6f439d0d-94b8-4115-85e8-2d71c6653387"
 height = "300" width = "430">
 
 <!-- #### Components !-->
