@@ -29,7 +29,7 @@ height = "300" width = "430">
     </div> 
 -->
 ### OR
-<img src = "https://github.com/KaikyM/Logic_Ports_Demonstration/assets/127446435/f1e8892f-ebfb-42c0-8634-5b45f6609bec"
+<img src = "https://github.com/KaikyM/Logic_Gate_Demonstration/assets/127446435/ba9a276b-7e38-4317-bbbe-291c2af647e4"
 height = "300" width = "430">
 
 ### XOR
