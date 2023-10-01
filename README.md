@@ -5,17 +5,6 @@ I decided to recreate the basic logic gates in Tinkercad using simple electronic
 The red lines represent binary 1, the black lines represent binary 0, and the grey lines are used solely to enhance the contrast for better visibility in the binary operation
 
 ## Logic Gates
-### Buffer
-This is a logic buffer that allows the passage of binary signals, both 0 and 1. I added a multimeter to make it more visible how the system behaves with the button
-
-<img src = "https://github.com/KaikyM/Logic_Gate_Demonstration/assets/127446435/1e8ac394-19d8-4eb2-a06c-b0acb1f322da"
-height = "300" width = "430">
-
-### NOT
-Additionally, in this case, the Blue LED represents the negated binary 1 signal, and the Green LED represents the negated binary 0 signal 
-
-<img src = "https://github.com/KaikyM/Logic_Gate_Demonstration/assets/127446435/5cbed003-1411-442b-a8d7-44117f84ecb6"
-height = "300" width = "430">
 <!-- <div align="rigth">
         <table border=1>
             <tr>
@@ -28,16 +17,36 @@ height = "300" width = "430">
         </table>
     </div> 
 -->
+### Buffer
+This is a logic buffer that allows the passage of binary signals, both 0 and 1. I added a multimeter to make it more visible how the system behaves with the button
+
+<img src = "https://github.com/KaikyM/Logic_Gate_Demonstration/assets/127446435/1e8ac394-19d8-4eb2-a06c-b0acb1f322da"
+height = "300" width = "430">
+
+### NOT
+Additionally, in this case, the Blue LED represents the negated binary 1 signal, and the Green LED represents the negated binary 0 signal 
+
+<img src = "https://github.com/KaikyM/Logic_Gate_Demonstration/assets/127446435/5cbed003-1411-442b-a8d7-44117f84ecb6"
+height = "300" width = "430">
+
 ### OR
 <img src = "https://github.com/KaikyM/Logic_Gate_Demonstration/assets/127446435/ba9a276b-7e38-4317-bbbe-291c2af647e4"
 height = "300" width = "430">
 
-### XOR
-<img src = "https://github.com/KaikyM/Logic_Gate_Demonstration/assets/127446435/7dc6e9dc-eb70-4a97-904e-37ec0dc517b6"
+### NOR
+<img src = "https://github.com/KaikyM/Logic_Gate_Demonstration/assets/127446435/ba78d309-3372-42a7-aaf1-4a4232bba044"
 height = "300" width = "430">
 
 ### AND
 <img src = "https://github.com/KaikyM/Logic_Gate_Demonstration/assets/127446435/6f439d0d-94b8-4115-85e8-2d71c6653387"
+height = "300" width = "430">
+
+### NAND
+<img src = "https://github.com/KaikyM/Logic_Gate_Demonstration/assets/127446435/ec66430c-3848-4cfc-b4ea-b8d93ad64ee3"
+height = "300" width = "430">
+
+### XOR
+<img src = "https://github.com/KaikyM/Logic_Gate_Demonstration/assets/127446435/7dc6e9dc-eb70-4a97-904e-37ec0dc517b6"
 height = "300" width = "430">
 
 <!-- #### Components !-->
@@ -49,6 +58,10 @@ NOT https://www.tinkercad.com/things/iFZzMfyULqs
 
 OR https://www.tinkercad.com/things/jZmgBy2CNzQ
 
+NOR https://www.tinkercad.com/things/hGWIy5TmLfg
+
 AND https://www.tinkercad.com/things/4ykYVhkMHVY
+
+NAND https://www.tinkercad.com/things/4ZIl00nm4VT
 
 XOR https://www.tinkercad.com/things/70X8IBE0pKK
