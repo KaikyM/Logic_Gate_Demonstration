@@ -30,15 +30,15 @@ Additionally, in this case, the Blue LED represents the negated binary 1 signal,
 height = "300" width = "430">
 
 ### OR
-<img src = "https://github.com/KaikyM/Logic_Gate_Demonstration/assets/127446435/ba9a276b-7e38-4317-bbbe-291c2af647e4"
+<img src = "https://github.com/KaikyM/Logic_Gate_Demonstration/assets/127446435/87e44650-6607-443f-ad0a-4e7270396dca"
 height = "300" width = "430">
 
 ### NOR
-<img src = "https://github.com/KaikyM/Logic_Gate_Demonstration/assets/127446435/ba78d309-3372-42a7-aaf1-4a4232bba044"
+<img src = "https://github.com/KaikyM/Logic_Gate_Demonstration/assets/127446435/79403e26-a364-4767-b678-bec6dc2130d5"
 height = "300" width = "430">
 
 ### AND
-<img src = "https://github.com/KaikyM/Logic_Gate_Demonstration/assets/127446435/6f439d0d-94b8-4115-85e8-2d71c6653387"
+<img src = "https://github.com/KaikyM/Logic_Gate_Demonstration/assets/127446435/7e17a084-bc8f-4609-9228-eb55c6449cda"
 height = "300" width = "430">
 
 ### NAND
@@ -46,7 +46,7 @@ height = "300" width = "430">
 height = "300" width = "430">
 
 ### XOR
-<img src = "https://github.com/KaikyM/Logic_Gate_Demonstration/assets/127446435/7dc6e9dc-eb70-4a97-904e-37ec0dc517b6"
+<img src = "https://github.com/KaikyM/Logic_Gate_Demonstration/assets/127446435/9e1ca751-946f-40c7-a241-e21ef636bea0"
 height = "300" width = "430">
 
 <!-- #### Components !-->
