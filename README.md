@@ -43,7 +43,7 @@ height = "300" width = "430">
 </div>
 
 ### NOT
-Additionally, in this case, the Blue LED represents the negated binary 1 signal, and the Green LED represents the negated binary 0 signal 
+In this case, the Blue LED represents the negated binary 1 signal, and the Green LED represents the negated binary 0 signal. Additionally, for the binary signal inverters (NOT, NOR, NAND, NXOR), transistors were used as a means of carrying and inverting the charge
 
 <img src = "https://github.com/KaikyM/Logic_Gate_Demonstration/assets/127446435/5cbed003-1411-442b-a8d7-44117f84ecb6"
 height = "300" width = "430">
@@ -299,3 +299,5 @@ AND https://www.tinkercad.com/things/4ykYVhkMHVY
 NAND https://www.tinkercad.com/things/4ZIl00nm4VT
 
 XOR https://www.tinkercad.com/things/70X8IBE0pKK
+
+XNOR https://www.tinkercad.com/things/1j7lD6IoEMg
